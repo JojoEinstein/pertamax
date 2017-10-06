@@ -1,0 +1,2 @@
+console.log{"Test node js pertama")
+console.error(new Error("whoops, ana sing salah cog!"));
