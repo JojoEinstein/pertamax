@@ -1,0 +1,2 @@
+const name = "Jojo Einstein";
+console.warn(`Man every of the year is $name`);
